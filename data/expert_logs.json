@@ -1,0 +1,2419 @@
+[
+  {
+    "timestamp": "2025-12-20T18:41:00.944465",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:47:41.261398",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:48:31.727252",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:48:38.458073",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:50:06.094190",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:50:11.302454",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:50:17.375363",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:52:28.724939",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:53:17.164098",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:56:48.721286",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:56:54.876093",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:56:58.823187",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:57:00.564449",
+    "action": "auth_failed",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_token"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:26:54.946813",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:27:01.104513",
+    "action": "get_contributions",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:27:14.938182",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:27:33.995210",
+    "action": "knowledge_validated",
+    "expert_id": "exp_001",
+    "details": {
+      "knowledge_id": "4",
+      "isValid": true,
+      "has_corrections": false
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:27:34.047574",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:27:34.518391",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:27:47.690828",
+    "action": "knowledge_validated",
+    "expert_id": "exp_001",
+    "details": {
+      "knowledge_id": "4",
+      "isValid": true,
+      "has_corrections": false
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:27:47.737226",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:27:48.211208",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:27:53.730137",
+    "action": "get_contributions",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:28:28.487355",
+    "action": "document_uploaded",
+    "expert_id": "exp_001",
+    "details": {
+      "filename": "GUIDE_89c1d10e.pdf",
+      "category": "Documentation",
+      "size": "1.7 MB"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:28:35.426686",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:28:40.804330",
+    "action": "get_contributions",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:36:24.167775",
+    "action": "get_contributions",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T19:37:13.616282",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:05:37.960182",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:05:38.027064",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:05:38.383326",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:05:38.433033",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:05:43.862089",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:05:49.888845",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:05:49.917324",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:06:08.643149",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:06:30.191173",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:06:30.214206",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:06:30.327389",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:06:30.366810",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:06:35.611276",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:06:41.456418",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:06:41.512747",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:06:47.996987",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:06:50.314026",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:06:54.372762",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:06:54.432217",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:06:54.856198",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:06:54.922213",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:06:58.920209",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:07:12.307035",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:07:14.440497",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:46:39.400209",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:46:39.461201",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:46:39.772633",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:46:39.818097",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:52:23.782715",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:52:23.831474",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:52:23.988616",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:52:24.023622",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:53:06.890536",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:53:06.914067",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:53:07.071886",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:53:07.180094",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:53:10.180846",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:53:26.885325",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:53:26.954256",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:53:27.326278",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:53:27.396134",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:53:31.042822",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:53:51.120991",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:53:58.415858",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:53:58.486936",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:54:54.269307",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:54:54.550265",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:54:55.314672",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T20:54:55.782385",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T20:55:36.270254",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:04:11.098464",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:04:11.124627",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:04:11.692957",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:04:11.766308",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:08:29.564112",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:08:29.672089",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:08:30.660136",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:08:30.845920",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:08:33.114251",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:08:35.546078",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:09:25.226014",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:09:25.272870",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:09:34.175729",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:09:35.531998",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:09:38.531986",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:09:40.301267",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:09:57.114942",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:10:05.060272",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:10:07.249925",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:10:07.289686",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:10:09.486240",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:10:11.078722",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:10:47.546969",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:10:53.614944",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:10:53.625539",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:10:55.754722",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:12:22.342486",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:12:22.406592",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:12:23.054086",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:12:23.085186",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:12:33.395548",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:12:35.293087",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:13:06.500830",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:20:52.851494",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:20:52.950530",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:20:54.091553",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:20:54.167754",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:21:00.867645",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:22:23.752285",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:22:25.752845",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:22:35.101350",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:22:35.108682",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:22:48.306005",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:22:49.194519",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:22:50.226473",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:23:27.521630",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:23:29.536894",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 6
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:23:57.739108",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:24:49.249245",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:25:01.251740",
+    "action": "knowledge_validated",
+    "expert_id": "exp_001",
+    "details": {
+      "knowledge_id": "4",
+      "isValid": true,
+      "has_corrections": false
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:25:01.286447",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:25:01.595921",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:25:17.037484",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:25:22.001200",
+    "action": "get_contributions",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:26:22.955061",
+    "action": "document_uploaded",
+    "expert_id": "exp_001",
+    "details": {
+      "filename": "ensemble-meubles-salon-bois-moderne_f60d253d.jpg",
+      "category": "Autre",
+      "size": "61.3 KB"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:27:11.102987",
+    "action": "knowledge_submitted",
+    "expert_id": "exp_001",
+    "details": {
+      "knowledge_id": "2882bd23",
+      "title": "resolv",
+      "category": "Agriculture"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:27:24.769650",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:27:34.000999",
+    "action": "get_contributions",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 3
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:28:03.465390",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:28:03.635534",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:28:04.399061",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T21:28:04.823798",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:28:07.260537",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 8
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:28:30.784156",
+    "action": "knowledge_deleted",
+    "expert_id": "admin",
+    "details": {
+      "item_id": "doc_f60d253d",
+      "source": "documents"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:28:30.875501",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-20T21:28:46.550443",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T09:59:34.634489",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T09:59:34.709927",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T10:09:55.279479",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T10:25:57.803097",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T10:25:57.894125",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T10:25:58.295158",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T10:25:58.374168",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T10:26:05.542225",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T10:26:05.621289",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T10:26:06.094566",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T10:26:06.175372",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T10:26:15.547008",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-21T10:26:17.911635",
+    "action": "get_contributions",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 3
+    }
+  },
+  {
+    "timestamp": "2025-12-21T11:05:01.400124",
+    "action": "get_contributions",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 3
+    }
+  },
+  {
+    "timestamp": "2025-12-21T11:05:02.973496",
+    "action": "get_validation_queue",
+    "expert_id": "exp_001",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-21T11:05:17.737072",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T11:05:27.222297",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T11:05:27.255165",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T11:05:27.395545",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T11:05:27.644783",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T11:05:30.860390",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T11:24:45.749586",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T11:24:47.456279",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T11:24:48.492102",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T11:25:25.567801",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T14:15:13.475242",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T14:15:13.500267",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T14:21:25.145817",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T14:21:25.180010",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T14:21:25.477297",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T14:21:25.542907",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T14:21:35.024466",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T14:21:36.840452",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T14:22:18.205531",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T14:22:18.279673",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T15:42:12.907378",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T15:42:13.083056",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T15:42:13.939570",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T15:42:14.535103",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T16:02:49.168484",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T16:02:49.217178",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T16:15:50.874780",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T16:15:50.955883",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T16:15:51.396519",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T16:15:51.504198",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:03:54.702286",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:03:54.749133",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:03:55.068288",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:03:55.128264",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:09:48.998815",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:09:49.055759",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:17:43.847442",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:17:44.033645",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:17:44.430080",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:17:45.419276",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:20:21.020104",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:20:21.054290",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:24:49.119396",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:24:49.148725",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:24:49.416763",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:24:49.439304",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:42:51.068868",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:42:51.097882",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:50:49.073547",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:50:49.100467",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:50:49.380656",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:50:49.406907",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:52:49.833730",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:52:49.879503",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:52:50.264194",
+    "action": "get_stats",
+    "expert_id": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-21T17:52:50.811477",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:53:00.647949",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:53:06.474164",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:53:12.389103",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T17:53:14.737206",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:02:49.069652",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:09:49.083950",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:11:49.463284",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:12:10.113242",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:16:49.169719",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:16:49.600297",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:40:49.491285",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:41:43.405122",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:41:52.532711",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:42:07.337232",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:42:14.345293",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:47:49.473628",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:55:49.473176",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:55:49.732270",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:57:12.222363",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:57:16.036545",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:57:20.071527",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T18:57:44.275241",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:00:24.549278",
+    "action": "get_conversations",
+    "expert_id": "admin",
+    "details": {
+      "count": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:03:48.781554",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:04:06.116168",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:04:06.289118",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:15:43.626597",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:15:55.307661",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:16:08.468177",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:16:17.434052",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:16:19.336389",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:29:54.845113",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:30:00.258172",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T19:31:12.133860",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T20:47:16.649814",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T20:49:23.960222",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T20:50:00.707244",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T20:50:47.413160",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T20:51:01.287279",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T21:41:27.598818",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T21:42:06.702583",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T21:43:25.877346",
+    "action": "system_backup",
+    "expert_id": "admin",
+    "details": {
+      "backup_file": "data/backup_20251221_214325.json"
+    }
+  },
+  {
+    "timestamp": "2025-12-21T21:44:06.967044",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T22:08:54.022250",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T22:09:06.205375",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T22:09:13.705093",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-21T22:56:04.944854",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T23:23:27.010685",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-21T23:43:49.103292",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T00:06:12.406053",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-22T09:28:30.691714",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T09:28:37.173069",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T09:29:03.392074",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T09:29:04.291693",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T09:29:06.689208",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-22T09:40:54.752495",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T09:40:57.980754",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T09:41:10.818959",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-22T11:53:17.387519",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T14:15:39.856241",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T14:16:03.078393",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T14:16:07.947257",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T14:16:38.534684",
+    "action": "get_knowledge",
+    "expert_id": "admin",
+    "details": {
+      "count": 7
+    }
+  },
+  {
+    "timestamp": "2025-12-22T17:47:05.125113",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T21:07:30.447388",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-22T21:10:04.433474",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T07:57:11.242459",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T08:11:10.956174",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T08:15:46.607046",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T08:22:16.709888",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T08:25:23.693385",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T09:16:59.171286",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T09:44:16.752156",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T09:57:10.944656",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T09:59:48.168678",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T14:12:47.463256",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-23T15:03:48.143218",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-24T04:04:57.019703",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-24T04:05:12.845386",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-24T10:51:18.020879",
+    "action": "auth_failed_admin",
+    "expert_id": "unknown",
+    "details": {
+      "reason": "invalid_admin_key"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:51:53.931792",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:51:56.023373",
+    "action": "api_key_created",
+    "expert_id": "admin",
+    "details": {
+      "key_id": "2fb31b50-efbe-431c-b3d4-796f25219d1b",
+      "name": "Application Test"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:51:58.107004",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:52:04.345233",
+    "action": "system_backup",
+    "expert_id": "admin",
+    "details": {
+      "backup_file": "data/backup_20251225_215204.json"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:52:08.478162",
+    "action": "api_key_revoked",
+    "expert_id": "admin",
+    "details": {
+      "key_id": "2fb31b50-efbe-431c-b3d4-796f25219d1b"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:56:17.455105",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:56:19.570454",
+    "action": "api_key_created",
+    "expert_id": "admin",
+    "details": {
+      "key_id": "48d391ef-b881-4a52-91d9-f69c04705a79",
+      "name": "Application Test"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:56:21.677292",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:56:27.905997",
+    "action": "system_backup",
+    "expert_id": "admin",
+    "details": {
+      "backup_file": "data/backup_20251225_215627.json"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:56:32.010795",
+    "action": "api_key_revoked",
+    "expert_id": "admin",
+    "details": {
+      "key_id": "48d391ef-b881-4a52-91d9-f69c04705a79"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:59:38.862408",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:59:40.989247",
+    "action": "api_key_created",
+    "expert_id": "admin",
+    "details": {
+      "key_id": "51ba30de-b2d6-4ce5-869d-3359e1c3fcee",
+      "name": "Application Test"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T21:59:43.057412",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 3
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:02:33.073525",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 3
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:02:35.180169",
+    "action": "api_key_created",
+    "expert_id": "admin",
+    "details": {
+      "key_id": "2bb74ee6-8bd7-403d-b6f2-9cad53e0e85e",
+      "name": "Application Test"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:02:37.261153",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 4
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:02:43.534225",
+    "action": "system_backup",
+    "expert_id": "admin",
+    "details": {
+      "backup_file": "data/backup_20251225_220243.json"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:02:47.684461",
+    "action": "api_key_revoked",
+    "expert_id": "admin",
+    "details": {
+      "key_id": "2bb74ee6-8bd7-403d-b6f2-9cad53e0e85e"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:07:33.946679",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 4
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:07:36.014108",
+    "action": "api_key_created",
+    "expert_id": "admin",
+    "details": {
+      "key_id": "8e034f38-9962-4f17-a168-97c429087fdf",
+      "name": "Application Test"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:07:38.070094",
+    "action": "get_api_keys",
+    "expert_id": "admin",
+    "details": {
+      "count": 5
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:07:44.259739",
+    "action": "system_backup",
+    "expert_id": "admin",
+    "details": {
+      "backup_file": "data/backup_20251225_220744.json"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T22:07:48.338148",
+    "action": "api_key_revoked",
+    "expert_id": "admin",
+    "details": {
+      "key_id": "8e034f38-9962-4f17-a168-97c429087fdf"
+    }
+  }
+]

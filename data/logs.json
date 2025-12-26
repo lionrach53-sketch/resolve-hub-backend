@@ -1,0 +1,345 @@
+[
+  {
+    "timestamp": "2025-12-20T16:31:03.326046",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T16:31:03.331109",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T16:31:03.763303",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T16:31:03.794099",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:31:41.021720",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:31:46.612542",
+    "action": "get_knowledge",
+    "user": "admin",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:32:14.316339",
+    "action": "get_conversations",
+    "user": "admin",
+    "details": {
+      "count": 1,
+      "total": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:32:54.123174",
+    "action": "get_conversations",
+    "user": "admin",
+    "details": {
+      "count": 1,
+      "total": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:32:55.173976",
+    "action": "get_knowledge",
+    "user": "admin",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:32:56.175986",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:32:57.334181",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T16:32:57.358227",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:34:44.348024",
+    "action": "auth_failed",
+    "user": "unknown",
+    "details": {
+      "reason": "invalid_key"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:34:44.419863",
+    "action": "auth_failed",
+    "user": "unknown",
+    "details": {
+      "reason": "invalid_key"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:35:37.469462",
+    "action": "get_knowledge",
+    "user": "admin",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:35:49.746888",
+    "action": "get_conversations",
+    "user": "admin",
+    "details": {
+      "count": 1,
+      "total": 1
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:36:14.051885",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:36:15.595860",
+    "action": "get_knowledge",
+    "user": "admin",
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:37:12.680529",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T16:37:12.907737",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T16:37:13.586807",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T16:37:13.610864",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T16:37:34.881460",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T17:03:58.116551",
+    "action": "auth_failed",
+    "user": "unknown",
+    "details": {
+      "reason": "invalid_key"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T17:03:58.258394",
+    "action": "auth_failed",
+    "user": "unknown",
+    "details": {
+      "reason": "invalid_key"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T17:04:26.446776",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:04:26.507016",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:04:27.241030",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:04:27.344246",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T17:05:11.549800",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:11.669933",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:12.457883",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:12.527007",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T17:05:24.720096",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:24.837750",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:25.130442",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:25.209897",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T17:05:36.606964",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:36.633400",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:41.036602",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:41.172294",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:42.857166",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:05:42.906874",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:08:24.725865",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:08:24.753055",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:08:24.895208",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T17:08:24.914036",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-20T18:00:30.416701",
+    "action": "get_stats",
+    "user": "admin",
+    "details": {}
+  },
+  {
+    "timestamp": "2025-12-20T18:00:30.440830",
+    "action": "get_api_keys",
+    "user": "admin",
+    "details": {
+      "count": 0
+    }
+  }
+]

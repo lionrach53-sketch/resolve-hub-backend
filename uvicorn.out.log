@@ -1,0 +1,31 @@
+[DEBUG] >>> ai_ingest.py chargé
+[DEBUG] ai_chat et ai_ingest importés depuis ai.routes
+[DEBUG] Router ai_chat inclus
+[DEBUG] Router ai_ingest inclus
+INFO:     127.0.0.1:49431 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49431 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49431 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57314 - "GET /api/health HTTP/1.1" 200 OK
+Erreur LLM, fallback RAG : 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+INFO:     127.0.0.1:57314 - "POST /ai/chat/intelligent HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57314 - "GET /api/health HTTP/1.1" 200 OK
+Erreur LLM, fallback RAG : 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+INFO:     127.0.0.1:57314 - "POST /ai/chat/intelligent HTTP/1.1" 200 OK
+Erreur LLM, fallback RAG : 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+INFO:     127.0.0.1:57314 - "POST /ai/chat/intelligent HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59321 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50564 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50564 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50564 - "GET /health HTTP/1.1" 200 OK

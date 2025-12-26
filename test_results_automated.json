@@ -1,0 +1,74 @@
+﻿[
+    {
+        "name":  "test_2_questions.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_backend.py",
+        "exit":  1
+    },
+    {
+        "name":  "test_categories.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_complet.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_confidence.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_debug_general.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_detection.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_direct.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_exact.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_frontend.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_mongo.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_mongo_write.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_normalize.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_problemes.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_rejection.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_voice_endpoint.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_voice_quick.py",
+        "exit":  0
+    },
+    {
+        "name":  "test_whisper_status.py",
+        "exit":  0
+    }
+]

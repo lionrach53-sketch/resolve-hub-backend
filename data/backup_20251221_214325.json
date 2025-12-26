@@ -1,0 +1,107 @@
+{
+  "contributions": [
+    {
+      "id": "1",
+      "title": "Les techniques agricoles traditionnelles",
+      "content": "Les techniques agricoles traditionnelles au Burkina Faso incluent la rotation des cultures, l'utilisation de compost naturel et les techniques d'irrigation traditionnelles comme les diguettes.",
+      "category": "Agriculture",
+      "source": "Minist\u00e8re de l'Agriculture",
+      "tags": [
+        "agriculture",
+        "tradition",
+        "techniques"
+      ],
+      "status": "validated",
+      "expertId": "exp_001",
+      "expertName": "Dr. Ibrahim Traor\u00e9",
+      "createdAt": "2024-01-15T10:30:00",
+      "validatedAt": "2024-01-16T14:20:00"
+    },
+    {
+      "id": "2",
+      "title": "Plantes m\u00e9dicinales locales",
+      "content": "Le moringa est une plante aux multiples vertus : riche en vitamines et min\u00e9raux, elle est utilis\u00e9e pour lutter contre la malnutrition. Le neem est quant \u00e0 lui utilis\u00e9 pour ses propri\u00e9t\u00e9s antiseptiques.",
+      "category": "Sant\u00e9",
+      "source": "Institut de recherche en sant\u00e9",
+      "tags": [
+        "sant\u00e9",
+        "plantes",
+        "m\u00e9decine traditionnelle"
+      ],
+      "status": "pending",
+      "expertId": "exp_002",
+      "expertName": "Dr. A\u00efcha Diallo",
+      "createdAt": "2024-01-14T15:45:00",
+      "validatedAt": null
+    },
+    {
+      "id": "2882bd23",
+      "title": "resolv",
+      "content": "api.js:5 \u274c Erreur createApiKey: ReferenceError: api is not defined\n    at createApiKey (api.js:155:22)\n    at handleCreateApiKey (App.jsx:207:26)\n    at handleCreateKey (ApiKeyManager.jsx:50:3)\n\napi.js:17 \ud83d\udce1 Erreur configuration (createApiKey): api is not defined\nApp.jsx:263 \u274c Erreur cr\u00e9ation cl\u00e9: ReferenceError: api is not defined\n    at createApiKey (api.js:155:22)\n    at handleCreateApiKey (App.jsx:207:26)\n    at handleCreateKey (ApiKeyManager.jsx:50:3)\n\ufeff\n\nPress ctrl i to turn on code suggestions. Press ctrl x to disable code suggestions.\nctrl\ni\n to turn on code suggestions. Don't show again\n\n",
+      "category": "Agriculture",
+      "source": null,
+      "tags": [
+        "resolvehub"
+      ],
+      "status": "pending",
+      "expertId": "exp_001",
+      "expertName": "Dr. Ibrahim Traor\u00e9",
+      "createdAt": "2025-12-20T21:27:11.097071",
+      "validatedAt": null
+    }
+  ],
+  "validation_queue": [
+    {
+      "id": "4",
+      "title": "Recette de soupe de ni\u00e9b\u00e9",
+      "content": "La soupe de ni\u00e9b\u00e9 est un plat traditionnel burkinab\u00e8 riche en prot\u00e9ines. Ingr\u00e9dients : ni\u00e9b\u00e9, oignons, tomates, huile d'arachide, piment. Cuire le ni\u00e9b\u00e9 pendant 2 heures, puis ajouter les l\u00e9gumes.",
+      "category": "Cuisine",
+      "submittedBy": "Chef Aminata",
+      "submittedAt": "2024-01-13T16:30:00",
+      "expertId": "exp_004",
+      "validated": true,
+      "validation_result": "approved",
+      "validated_at": "2025-12-20T21:25:01.070429",
+      "validated_by": "exp_001",
+      "corrections": ""
+    },
+    {
+      "id": "5",
+      "title": "Techniques de conservation des c\u00e9r\u00e9ales",
+      "content": "Les techniques traditionnelles de conservation incluent le s\u00e9chage au soleil, le stockage dans des greniers sur\u00e9lev\u00e9s et l'utilisation de cendres ou de plantes r\u00e9pulsives contre les insectes.",
+      "category": "Agriculture",
+      "submittedBy": "Ing. Boubacar",
+      "submittedAt": "2024-01-12T11:15:00",
+      "expertId": "exp_005"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc_001",
+      "filename": "guide_agriculture.pdf",
+      "category": "Agriculture",
+      "size": "2.4 MB",
+      "uploaded_at": "2024-01-10T09:15:00",
+      "uploaded_by": "exp_001",
+      "description": "Guide des techniques agricoles traditionnelles"
+    },
+    {
+      "id": "doc_89c1d10e",
+      "filename": "GUIDE_89c1d10e.pdf",
+      "original_name": "GUIDE.pdf",
+      "category": "Documentation",
+      "description": null,
+      "size": "1.7 MB",
+      "uploaded_at": "2025-12-20T19:28:28.484328",
+      "uploaded_by": "exp_001",
+      "file_path": "uploads\\GUIDE_89c1d10e.pdf"
+    }
+  ],
+  "stats": {
+    "total_contributions": 157,
+    "pending_validations": 12,
+    "total_experts": 5,
+    "validation_rate": 92.5,
+    "documents_count": 10
+  }
+}

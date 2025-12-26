@@ -1,0 +1,50 @@
+{
+  "mo": {
+    "Ne y kɔɔrɛ": {
+      "file": "greetings/bonjour.mp3",
+      "category": "greeting"
+    },
+    "Yamba": {
+      "file": "greetings/merci.mp3",
+      "category": "thanks"
+    },
+    "La fii": {
+      "file": "greetings/aurevoir.mp3",
+      "category": "bye"
+    },
+    "Fo kẽ be kɩtugã?": {
+      "file": "common/question_help.mp3",
+      "category": "question"
+    },
+    "Moringa sã yaa?": {
+      "file": "agriculture/moringa_info.mp3",
+      "category": "agriculture"
+    },
+    "Bãndã tɩ wakat?": {
+      "file": "agriculture/when_cultivate.mp3",
+      "category": "agriculture"
+    }
+  },
+  "di": {
+    "I ni sɔgɔma": {
+      "file": "greetings/bonjour.mp3",
+      "category": "greeting"
+    },
+    "I ni ce": {
+      "file": "greetings/merci.mp3",
+      "category": "thanks"
+    },
+    "An bi se": {
+      "file": "greetings/aurevoir.mp3",
+      "category": "bye"
+    },
+    "N bɛ se ka i dɛmɛ cogo di?": {
+      "file": "common/question_help.mp3",
+      "category": "question"
+    },
+    "Moringa ye mun ye?": {
+      "file": "agriculture/moringa_info.mp3",
+      "category": "agriculture"
+    }
+  }
+}

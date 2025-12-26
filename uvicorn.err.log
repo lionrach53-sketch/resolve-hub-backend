@@ -1,0 +1,205 @@
+ERROR:mongodb:\u274c Erreur inattendue MongoDB: The resolution lifetime expired after 3.013 seconds: Server Do53:192.168.42.129@53 answered The DNS operation timed out.; Server Do53:192.168.11.1@53 answered The DNS operation timed out.
+WARNING:mongodb:\u26a0\ufe0f  Fonctionnement en mode dégradé sans MongoDB
+INFO:__main__:\u2705 Module MongoDB importé
+INFO:faiss.loader:Loading faiss with AVX2 support.
+INFO:faiss.loader:Successfully loaded faiss with AVX2 support.
+INFO:ai.service.tts_service:\U0001f4da Index audio chargé: 6 mooré, 5 dioula
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\BNT\\Documents\\PROJET RESOLVE HUB\\SOLUTIONS\\YINGRE AI\\YINGR-AI CODE TEST\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\.venv\Lib\site-packages\comtypes\gen'
+INFO:ai.service.tts_service:\u2705 TTS Engine (pyttsx3) initialisé
+INFO:ai.service.stt_service:\u2705 Whisper disponible pour STT
+INFO:ai.service.stt_service:\u2705 Modèle Whisper 'base' chargé
+INFO:ai.service.rag:Initialisation du RAGService...
+INFO:ai.service.rag:Chargement initial du modèle d'embedding...
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:ai.service.rag:\u2705 Modèle d'embedding chargé: all-MiniLM-L6-v2
+INFO:ai.service.rag:Index FAISS et métadonnées chargés avec succès.
+INFO:ai.service.intelligent_chat:\u2705 Service de chat intelligent initialisé avec Mistral AI
+INFO:ai.routes.ai_ingest:[YINGRE AI] Initialisation du RAGService pour l'ingest...
+INFO:ai.service.rag:Initialisation du RAGService...
+INFO:ai.service.rag:Index FAISS et métadonnées chargés avec succès.
+INFO:ai.routes.ai_ingest:[YINGRE AI] RAGService prêt pour l'ingest.
+WARNING:__main__:AI routes import status: ai_chat=False, ai_ingest=False
+INFO:__main__:============================================================
+INFO:__main__:STARTING AI ROUTES LOADER
+INFO:__main__:============================================================
+INFO:__main__:Backend dir: C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend
+INFO:__main__:Project root: C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST
+INFO:__main__:Registered AI routers: ['ai_chat', 'ai_ingest'] from ai.routes
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:228: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  id: str = Field(..., example="exp_001")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:229: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  name: str = Field(..., example="Dr. Ibrahim Traoré")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:230: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  email: EmailStr = Field(..., example="expert@ia-burkina.bf")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:231: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  level: int = Field(..., example=3)
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:232: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  specialty: str = Field(..., example="Agriculture")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:233: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  contributions_count: int = Field(..., example=42)
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:234: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  validation_score: float = Field(..., example=94.5)
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:235: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  join_date: str = Field(..., example="2024-01-01")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:238: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  title: str = Field(..., min_length=5, max_length=200, example="Les techniques agricoles traditionnelles")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:239: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  content: str = Field(..., min_length=20, example="Les techniques agricoles traditionnelles au Burkina Faso incluent...")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:240: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  category: str = Field(..., example="Agriculture")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:241: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  source: Optional[str] = Field(None, example="Ministère de l'Agriculture")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:242: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  tags: List[str] = Field(default=[], example=["agriculture", "tradition", "burkina"])
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:245: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  category: str = Field(..., example="Agriculture")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:246: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  description: Optional[str] = Field(None, example="Document sur les techniques agricoles")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:249: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  id: str = Field(..., example="1")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:250: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  title: str = Field(..., example="Les techniques agricoles traditionnelles")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:251: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  content: str = Field(..., example="Les techniques agricoles traditionnelles au Burkina Faso incluent...")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:252: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  category: str = Field(..., example="Agriculture")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:253: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  status: str = Field(..., example="validated")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:254: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  createdAt: str = Field(..., example="2024-01-15T10:30:00")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:255: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  validatedAt: Optional[str] = Field(None, example="2024-01-16T14:20:00")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:256: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  expertName: str = Field(..., example="Dr. Ibrahim Traoré")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:257: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  expertId: str = Field(..., example="exp_001")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:260: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  id: str = Field(..., example="4")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:261: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  title: str = Field(..., example="Recette de soupe de niébé")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:262: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  content: str = Field(..., example="La soupe de niébé est un plat traditionnel burkinabè riche en protéines...")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:263: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  category: str = Field(..., example="Cuisine")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:264: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  submittedBy: str = Field(..., example="Chef Aminata")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:265: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  submittedAt: str = Field(..., example="2024-01-13T16:30:00")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:266: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  expertId: str = Field(..., example="exp_004")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:269: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  isValid: bool = Field(..., example=True)
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:270: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  corrections: Optional[str] = Field(None, example="Quelques corrections mineures à apporter...")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:273: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  status: str = Field(..., example="healthy")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:274: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  timestamp: str = Field(..., example="2024-01-15T10:30:00")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:275: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  uptime: str = Field(..., example="2 jours 4 heures")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:276: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  version: str = Field(..., example="2.0.0")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:277: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  expert_count: int = Field(..., example=5)
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:278: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  pending_validations: int = Field(..., example=3)
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:281: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  message: str = Field(..., example="Document uploadé avec succès")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:282: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  filename: str = Field(..., example="document.pdf")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:283: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  size: str = Field(..., example="2.4 MB")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:284: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  uploaded_at: str = Field(..., example="2024-01-15T10:30:00")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:285: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  file_url: str = Field(..., example="/uploads/document.pdf")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:288: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  message: str = Field(..., example="Bonjour, comment ça va ?")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:289: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  category: str = Field(..., example="general")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:290: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  timestamp: Optional[str] = Field(None, example="2024-01-15T10:30:00")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:293: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  response: str = Field(..., example="Je vais bien, merci !")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:294: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  confidence: float = Field(..., example=0.85)
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:295: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  sources: List[str] = Field([], example=["Base de connaissances agriculture", "Documentation santé"])
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:296: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  conversation_id: str = Field(..., example="conv_12345")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:299: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  id: str = Field(..., example="general")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:300: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  name: str = Field(..., example="Général")
+C:\Users\BNT\Documents\PROJET RESOLVE HUB\SOLUTIONS\YINGRE AI\YINGR-AI CODE TEST\backend\main.py:301: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  description: Optional[str] = Field(None, example="Questions générales")
+INFO:ai.service.rag:Initialisation du RAGService...
+INFO:ai.service.rag:Index FAISS et métadonnées chargés avec succès.
+INFO:__main__:\U0001f3b5 Serveur audio monté: /audio
+INFO:__main__:============================================================
+INFO:__main__:\U0001f680 DÉMARRAGE BACKEND YINGRE AI
+INFO:__main__:============================================================
+INFO:     Started server process [11504]
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:ai.service.text_normalizer:\U0001f4dd Correction: 'J'ai' \u2192 'J'ai'
+INFO:ai.routes.ai_chat:\U0001f9e0 Question originale: 'J'ai mal des gaz au ventre'
+INFO:ai.routes.ai_chat:\U0001f4a1 Compréhension: Je cherche des remèdes pour les problèmes digestifs...
+INFO:ai.routes.ai_chat:\U0001f50d Question enrichie: 'plantes médicinales pour traiter les maux d'estomac ventre digestion gastrique gaz'
+INFO:ai.service.rag:\U0001f4dd Requête enrichie: 'plantes médicinales pour traiter les maux d'estomac ventre digestion gastrique gaz estomac gastrique'
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|##########| 1/1 [00:00<00:00, 16.58it/s]
+INFO:ai.service.rag:\U0001f4ca Meilleure similarité: 0.528 (seuil: 0.15)
+INFO:ai.service.rag:\U0001f50d Test #21 source: admin-json-Plantes Medicinales-fr
+INFO:ai.service.rag:   Cat demandée: 'Plantes Medicinales' \u2192 'plantesmedicinales'
+INFO:ai.service.rag:   Source norm: 'adminjsonplantesmedicinalesfr'
+INFO:ai.service.rag:   Match: True
+INFO:ai.service.rag:\U0001f3af Re-ranking hybride de 10 résultats...
+INFO:ai.service.hybrid_search:\U0001f511 Mots-clés extraits: ['plantes', 'médicinales', 'traiter', 'maux', 'estomac', 'ventre', 'digestion', 'gastrique', 'gaz']
+INFO:ai.service.hybrid_search:  Doc 1: sem=0.528, kw=0.800 \u2192 hybrid=0.664
+INFO:ai.service.hybrid_search:  Doc 2: sem=0.528, kw=0.800 \u2192 hybrid=0.664
+INFO:ai.service.hybrid_search:  Doc 3: sem=0.528, kw=0.800 \u2192 hybrid=0.664
+INFO:ai.service.rag:\u2705 Re-ranking terminé. Top score: 0.664
+INFO:ai.routes.ai_chat:\U0001f4ca RAG résultats: answer_raw length=141, context_raw length=1970
+INFO:ai.routes.ai_chat:\U0001f4c4 Contexte brut (100 premiers chars): Les feuilles et écorces de l'arbre 'Neem' (Azadirachta indica), infusées, sont utilisées pour traite
+INFO:ai.routes.ai_chat:\U0001f4da 3 documents structurés pour le LLM
+INFO:ai.service.text_normalizer:\U0001f4dd Correction: 'J'ai' \u2192 'J'ai'
+INFO:ai.routes.ai_chat:\U0001f9e0 Question originale: 'J'ai mal des gaz au ventre'
+INFO:ai.routes.ai_chat:\U0001f4a1 Compréhension: Je cherche des remèdes pour les problèmes digestifs...
+INFO:ai.routes.ai_chat:\U0001f50d Question enrichie: 'plantes médicinales pour traiter les maux d'estomac ventre digestion gastrique gaz'
+INFO:ai.service.rag:\U0001f4dd Requête enrichie: 'plantes médicinales pour traiter les maux d'estomac ventre digestion gastrique gaz estomac gastrique'
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|##########| 1/1 [00:00<00:00, 39.00it/s]
+INFO:ai.service.rag:\U0001f4ca Meilleure similarité: 0.528 (seuil: 0.15)
+INFO:ai.service.rag:\U0001f50d Test #21 source: admin-json-Plantes Medicinales-fr
+INFO:ai.service.rag:   Cat demandée: 'Plantes Medicinales' \u2192 'plantesmedicinales'
+INFO:ai.service.rag:   Source norm: 'adminjsonplantesmedicinalesfr'
+INFO:ai.service.rag:   Match: True
+INFO:ai.service.rag:\U0001f3af Re-ranking hybride de 10 résultats...
+INFO:ai.service.hybrid_search:\U0001f511 Mots-clés extraits: ['plantes', 'médicinales', 'traiter', 'maux', 'estomac', 'ventre', 'digestion', 'gastrique', 'gaz']
+INFO:ai.service.hybrid_search:  Doc 1: sem=0.528, kw=0.800 \u2192 hybrid=0.664
+INFO:ai.service.hybrid_search:  Doc 2: sem=0.528, kw=0.800 \u2192 hybrid=0.664
+INFO:ai.service.hybrid_search:  Doc 3: sem=0.528, kw=0.800 \u2192 hybrid=0.664
+INFO:ai.service.rag:\u2705 Re-ranking terminé. Top score: 0.664
+INFO:ai.routes.ai_chat:\U0001f4ca RAG résultats: answer_raw length=141, context_raw length=1970
+INFO:ai.routes.ai_chat:\U0001f4c4 Contexte brut (100 premiers chars): Les feuilles et écorces de l'arbre 'Neem' (Azadirachta indica), infusées, sont utilisées pour traite
+INFO:ai.routes.ai_chat:\U0001f4da 3 documents structurés pour le LLM
+INFO:ai.service.text_normalizer:\U0001f4dd Correction: 'J'ai' \u2192 'J'ai'
+INFO:ai.routes.ai_chat:\U0001f9e0 Question originale: 'J'ai mal des gaz au ventre'
+INFO:ai.routes.ai_chat:\U0001f4a1 Compréhension: Je cherche des remèdes pour les problèmes digestifs...
+INFO:ai.routes.ai_chat:\U0001f50d Question enrichie: 'plantes médicinales pour traiter les maux d'estomac ventre digestion gastrique gaz'
+INFO:ai.service.rag:\U0001f4dd Requête enrichie: 'plantes médicinales pour traiter les maux d'estomac ventre digestion gastrique gaz estomac gastrique'
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|##########| 1/1 [00:00<00:00, 62.68it/s]
+INFO:ai.service.rag:\U0001f4ca Meilleure similarité: 0.528 (seuil: 0.15)
+INFO:ai.service.rag:\U0001f50d Test #21 source: admin-json-Plantes Medicinales-fr
+INFO:ai.service.rag:   Cat demandée: 'Plantes Medicinales' \u2192 'plantesmedicinales'
+INFO:ai.service.rag:   Source norm: 'adminjsonplantesmedicinalesfr'
+INFO:ai.service.rag:   Match: True
+INFO:ai.service.rag:\U0001f3af Re-ranking hybride de 10 résultats...
+INFO:ai.service.hybrid_search:\U0001f511 Mots-clés extraits: ['plantes', 'médicinales', 'traiter', 'maux', 'estomac', 'ventre', 'digestion', 'gastrique', 'gaz']
+INFO:ai.service.hybrid_search:  Doc 1: sem=0.528, kw=0.800 \u2192 hybrid=0.664
+INFO:ai.service.hybrid_search:  Doc 2: sem=0.528, kw=0.800 \u2192 hybrid=0.664
+INFO:ai.service.hybrid_search:  Doc 3: sem=0.528, kw=0.800 \u2192 hybrid=0.664
+INFO:ai.service.rag:\u2705 Re-ranking terminé. Top score: 0.664
+INFO:ai.routes.ai_chat:\U0001f4ca RAG résultats: answer_raw length=141, context_raw length=1970
+INFO:ai.routes.ai_chat:\U0001f4c4 Contexte brut (100 premiers chars): Les feuilles et écorces de l'arbre 'Neem' (Azadirachta indica), infusées, sont utilisées pour traite
+INFO:ai.routes.ai_chat:\U0001f4da 3 documents structurés pour le LLM

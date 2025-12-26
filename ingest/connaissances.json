@@ -1,0 +1,164 @@
+[
+  {
+    "categorie": "Plantes Medicinales",
+    "sous_categorie": "Troubles digestifs",
+    "niveau": "grand_public",
+    "langues": {
+      "fr": {
+        "question": "Quelle plante utilise-t-on traditionnellement pour soigner les maux d'estomac au Burkina Faso ?",
+        "reponse_courte": "Le neem est couramment utilisé pour soulager les maux d’estomac.",
+        "reponse_detaillee": "Au Burkina Faso, les feuilles ou l’écorce du neem (Azadirachta indica) sont souvent préparées en infusion pour soulager les douleurs d’estomac et certains troubles digestifs.",
+        "intention": "information",
+        "question_type": "sante_traditionnelle",
+        "conseil": "Boire l’infusion tiède après le repas.",
+        "avertissement": "Consulter un agent de santé si les douleurs persistent."
+      },
+      "mo": {},
+      "di": {}
+    }
+  },
+  {
+    "categorie": "Plantes Medicinales",
+    "sous_categorie": "Energie et fatigue",
+    "niveau": "grand_public",
+    "langues": {
+      "fr": {
+        "question": "Comment utiliser le moringa contre la fatigue ?",
+        "reponse_courte": "Le moringa aide à réduire la fatigue et à renforcer l’organisme.",
+        "reponse_detaillee": "On consomme généralement une cuillère à soupe de poudre de feuilles séchées de moringa par jour, mélangée dans la bouillie, la sauce ou une boisson.",
+        "intention": "utilisation",
+        "question_type": "sante_traditionnelle",
+        "conseil": "Prendre le moringa le matin.",
+        "avertissement": "Consulter un agent de santé si la fatigue dure longtemps."
+      },
+      "mo": {},
+      "di": {}
+    }
+  },
+  {
+    "categorie": "Transformation PFNL",
+    "sous_categorie": "Karité",
+    "niveau": "grand_public",
+    "langues": {
+      "fr": {
+        "question": "Quelles sont les étapes de base pour transformer la noix de karité en beurre ?",
+        "reponse_courte": "La transformation du karité suit plusieurs étapes traditionnelles.",
+        "reponse_detaillee": "Les étapes sont : collecte et dépulpage, séchage et concassage, torréfaction, broyage, malaxage, filtration de l’huile, puis refroidissement pour obtenir le beurre.",
+        "intention": "procedure",
+        "question_type": "artisanat",
+        "conseil": "Utiliser de l’eau propre pendant le malaxage.",
+        "avertissement": ""
+      },
+      "mo": {},
+      "di": {}
+    }
+  },
+  {
+    "categorie": "Transformation PFNL",
+    "sous_categorie": "Baobab",
+    "niveau": "grand_public",
+    "langues": {
+      "fr": {
+        "question": "Comment produire de la farine nutritive à base de baobab ?",
+        "reponse_courte": "La farine de baobab est riche en vitamine C.",
+        "reponse_detaillee": "Il faut sécher la pulpe du fruit de baobab, la moudre finement puis la tamiser avant utilisation dans les bouillies ou boissons.",
+        "intention": "utilisation",
+        "question_type": "artisanat",
+        "conseil": "Conserver la farine dans un récipient sec et fermé.",
+        "avertissement": ""
+      },
+      "mo": {},
+      "di": {}
+    }
+  },
+  {
+    "categorie": "Science Pratique - Saponification",
+    "sous_categorie": "Calcul de soude",
+    "niveau": "grand_public",
+    "langues": {
+      "fr": {
+        "question": "Quelle est la formule pour calculer la quantité de soude nécessaire pour saponifier une huile ?",
+        "reponse_courte": "On utilise l’indice de saponification de l’huile.",
+        "reponse_detaillee": "La quantité de soude se calcule avec la formule : masse d’huile × indice de saponification ÷ 1000. Pour le karité, l’indice est d’environ 128 à 138.",
+        "intention": "information",
+        "question_type": "calcul",
+        "conseil": "Toujours vérifier l’indice de l’huile utilisée.",
+        "avertissement": "Manipuler la soude avec prudence."
+      },
+      "mo": {},
+      "di": {}
+    }
+  },
+  {
+    "categorie": "Metiers Informels",
+    "sous_categorie": "Réparation téléphones",
+    "niveau": "grand_public",
+    "langues": {
+      "fr": {
+        "question": "Quel est le capital de départ pour un atelier informel de réparation de téléphones ?",
+        "reponse_courte": "Un capital moyen de 150 000 à 300 000 FCFA est nécessaire.",
+        "reponse_detaillee": "Ce budget couvre les outils de base (tournevis, station de soudure) et quelques pièces de rechange courantes comme les écrans et batteries.",
+        "intention": "quantite",
+        "question_type": "metier",
+        "conseil": "Commencer petit et investir progressivement.",
+        "avertissement": ""
+      },
+      "mo": {},
+      "di": {}
+    }
+  },
+  {
+    "categorie": "Civisme",
+    "sous_categorie": "Devoirs du citoyen",
+    "niveau": "grand_public",
+    "langues": {
+      "fr": {
+        "question": "Quels sont mes devoirs de citoyen ?",
+        "reponse_courte": "Un citoyen doit respecter les lois et contribuer au développement du pays.",
+        "reponse_detaillee": "Les devoirs incluent le respect des lois, le paiement des impôts, la participation aux élections et la protection des biens publics.",
+        "intention": "liste",
+        "question_type": "civisme",
+        "conseil": "Être un bon exemple dans sa communauté.",
+        "avertissement": ""
+      },
+      "mo": {},
+      "di": {}
+    }
+  },
+  {
+    "categorie": "Spiritualite et Traditions",
+    "sous_categorie": "Initiation",
+    "niveau": "grand_public",
+    "langues": {
+      "fr": {
+        "question": "Quelle cérémonie traditionnelle marque l'entrée des jeunes garçons dans l'âge adulte chez les Sénoufo ?",
+        "reponse_courte": "Le Poro marque l’entrée dans l’âge adulte.",
+        "reponse_detaillee": "Le Poro est une cérémonie d’initiation où les jeunes apprennent les valeurs, les règles sociales et les responsabilités de la communauté.",
+        "intention": "information",
+        "question_type": "culture",
+        "conseil": "Respecter les traditions locales.",
+        "avertissement": ""
+      },
+      "mo": {},
+      "di": {}
+    }
+  },
+  {
+    "categorie": "Developpement Personnel",
+    "sous_categorie": "Compétences",
+    "niveau": "grand_public",
+    "langues": {
+      "fr": {
+        "question": "Comment développer mes compétences personnelles ?",
+        "reponse_courte": "Le développement personnel demande discipline et apprentissage continu.",
+        "reponse_detaillee": "Il faut se fixer des objectifs clairs, gérer son temps, apprendre régulièrement et accepter les critiques constructives.",
+        "intention": "utilisation",
+        "question_type": "developpement_personnel",
+        "conseil": "Avancer petit à petit chaque jour.",
+        "avertissement": ""
+      },
+      "mo": {},
+      "di": {}
+    }
+  }
+]
